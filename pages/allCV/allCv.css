@@ -1,0 +1,42 @@
+/* 
+.contaiener{
+    width: 80%;
+    margin: 0;
+    padding: 0;
+} */
+
+body{
+    background-color: rgb(86, 86, 112);
+}
+
+
+.content{
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    justify-content: center;
+}
+.rezume{
+    border: 1px solid white;
+}
+.rezume img{
+width: 300px;
+height: 370px;
+
+}
+.rezume h5{
+    font-size: 17px;
+    color: white;
+    margin-top: 30px;
+    text-align: center;
+}
+.rezume h4{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 17px;
+    color: rgb(255, 255, 255);
+}
+
+
+
